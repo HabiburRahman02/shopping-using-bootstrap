@@ -1,0 +1,92 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lumanosimo', cursive;
+    font-family: 'Poppins', sans-serif;
+    background-color: aliceblue;
+}
+.nav-style{
+    /* background-color:#C2EFD4; */
+    /* margin-bottom: 30px; */
+}
+.ul-style li a:hover{
+    color: red;
+    transition: 0.3s;
+}
+.header-style {
+    background-color: #C2EFD4;
+    color: #224F34;
+}
+
+.fashion {
+    line-height: 43px;
+    font-weight: 500;
+}
+
+.ul-style li {
+    font-size: 13px;
+    margin-left: 146px;
+    font-weight: 500;
+}
+.bg-lock{
+    /* background-color: #C2EFD4; */
+    /* font-size: 60px; */
+}
+
+.banner-img {
+    /* width: 195.18px; */
+    /* height: 244.73px; */
+    border-radius: 50px 35px;;
+    margin-bottom: 10px;
+}
+.banner-img:hover{
+    border-radius:80px 25px;
+    transition: 0.8s;
+}
+main section h1{
+    color: #224F34;
+}
+.bg-img{
+    background-color: red;
+}
+
+.bg-card{
+    background-color: #93B9A2;
+    height: 275px;
+}
+.font-weight{
+    font-weight: 700;
+    font-size: 18px;
+    color: #7D7D7D;
+}
+
+.bg-product{
+    background-color:rgb(206, 212, 212);
+    border-radius:10px;
+}
+
+.bg-offer{
+    background-color:#C2EFD4;
+}
+
+.footer-style{
+    background-color: #224F34;
+    color: white;
+}
+.fa-instagram{
+    color: rgb(255, 77, 0);
+}
+
+/* extra */
+.hover-style:hover{
+    background-color:#C2EFD4;
+    transition: 0.5s;
+}
+hr {
+    /* position: relative; */
+    top: 20px;
+    border: none;
+    height: 4px;
+    background:#C2EFD4;
+    margin-bottom: 50px;
+}
